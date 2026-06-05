@@ -31,23 +31,9 @@ Hey 👋 there! I'm
 <br>
 
 <p align="center">
-
-<a href="#">
-<img src="https://komarev.com/ghpvc/?username=Srishti140705&label=profile%20views&color=0e75b6&style=flat-square"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/srishti-raj-344988328/">
-<img src="https://img.shields.io/badge/LinkedIn-Srishti%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="mailto:srish6414@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-srish6414-lightgrey?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="#"><img src="https://komarev.com/ghpvc/?username=Srishti140705&label=profile%20views&color=0e75b6&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/srishti-raj-344988328/"><img src="https://img.shields.io/badge/LinkedIn-Srishti%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:srish6414@gmail.com"><img src="https://img.shields.io/badge/Gmail-srish6414%40gmail.com-lightgrey?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <hr>
