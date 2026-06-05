@@ -1,12 +1,12 @@
 <h1 align="center">
-Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> there! I'm
+Hey 👋 there! I'm
 </h1>
 
 <table align="center">
 <tr>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="95">
+<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="70">
 </td>
 
 <td align="center">
@@ -14,7 +14,7 @@ Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="95">
+<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="70">
 </td>
 
 </tr>
@@ -23,27 +23,29 @@ Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <p align="center">
 <b>Big Data Engineering Student</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Data Engineering</b>
+<b>Data Engineer</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Machine Learning</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Full Stack Development</b>
+<b>Full Stack Developer</b>
 </p>
 
 <br>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/srishti-raj-344988328/">
-<img src="https://img.shields.io/badge/LinkedIn-Srishti_Raj-blue?style=flat-square&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-lightgrey?style=flat-square&logo=gmail"/>
-</a>
-
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=flat-square&logo=googlechrome"/>
+<img src="https://komarev.com/ghpvc/?username=Srishti140705&label=profile%20views&color=0e75b6&style=flat-square"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/srishti-raj-344988328/">
+<img src="https://img.shields.io/badge/LinkedIn-Srishti%20Raj-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:srish6414@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-srish6414-lightgrey?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
