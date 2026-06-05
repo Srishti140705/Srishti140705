@@ -1,18 +1,22 @@
-<h1 align="center">Hey 👋 there! I'm</h1>
+<h1 align="center">
+Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> there! I'm
+</h1>
 
 <table align="center">
 <tr>
-<td>
-<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="120">
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="95">
 </td>
 
 <td align="center">
 <h1>Srishti Raj</h1>
 </td>
 
-<td>
-<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="120">
+<td align="center">
+<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="95">
 </td>
+
 </tr>
 </table>
 
@@ -29,19 +33,19 @@
 <br>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/srishti-raj-344988328/">
-<img src="https://img.shields.io/badge/LinkedIn-Srishti_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Srishti_Raj-blue?style=flat-square&logo=linkedin"/>
 </a>
 
-<a href="mailto:srish6414@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-lightgrey?style=flat-square&logo=gmail"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=flat-square&logo=googlechrome"/>
 </a>
-</p>
 
-<br>
+</p>
 
 <hr>
