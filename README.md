@@ -41,8 +41,6 @@ Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/
 
 <h2 align="center">About</h2>
 
-I'm a final-year Computer Science undergraduate specializing in Big Data Engineering, with a genuine curiosity for how large-scale systems are built. My focus spans data engineering, full-stack development, and the pipelines that connect the two.
-
-I enjoy working across the stack, from building backend APIs to processing datasets and shipping reliable, well-structured applications.
+I'm a final-year Computer Science undergraduate specializing in Big Data Engineering, with a genuine curiosity for how large-scale systems are built. My focus spans data engineering, full-stack development, and the pipelines that connect the two. I enjoy working across the stack, from building backend APIs to processing datasets and shipping reliable, well-structured applications.
 
 I care about writing code that's readable, systems that scale, and learning something new with every project I make.
