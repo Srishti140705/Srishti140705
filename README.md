@@ -1,16 +1,16 @@
-<h1 align="center">
+<h3 align="center">
 Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there! I'm
-</h1>
+</h3>
 
 <table align="center">
 <tr>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="70">
+<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/Girl Wow GIF by PLAY.gif" width="70">
 </td>
 
 <td align="center">
-<h1>Srishti Raj</h1>
+<h2>Srishti Raj</h2>
 </td>
 
 <td align="center">
@@ -40,3 +40,23 @@ Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/
 </p>
 
 <hr>
+</p>
+
+<hr>
+<hr>
+
+<h2 align="center">About</h2>
+
+<p align="center">
+I'm a final-year Computer Science undergraduate specializing in Big Data Engineering, with a genuine curiosity for how large-scale systems are built. My focus spans data engineering, full-stack development, and the pipelines that connect the two.
+</p>
+
+<p align="center">
+I enjoy working across the stack, from building backend APIs to processing datasets and shipping reliable, well-structured applications.
+</p>
+
+<p align="center">
+I care about writing code that's readable, systems that scale, and learning something new with every project I make.
+</p>
+
+
