@@ -14,7 +14,7 @@ Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/cat-typing.gif" width="70">
+<img src="https://raw.githubusercontent.com/Srishti140705/assets/main/Girl Wow GIF by PLAY.gif" width="70">
 </td>
 
 </tr>
