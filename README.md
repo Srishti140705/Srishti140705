@@ -48,14 +48,14 @@ I care about writing code that's readable, systems that scale, and learning some
 
 <h2 align="center">Tech Stack</h2>
 
-### Languages
+<h4>Languages</h4>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-### Frontend
+<h4>Frontend</h4>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
@@ -63,7 +63,7 @@ I care about writing code that's readable, systems that scale, and learning some
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-### Backend & Databases
+<h4>Backend & Databases</h4>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
@@ -71,20 +71,20 @@ I care about writing code that's readable, systems that scale, and learning some
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
-### Data & Machine Learning
+<h4>Data & Machine Learning</h4>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
 
-### Big Data & Data Engineering
+<h4>Big Data & Data Engineering</h4>
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square\&logo=apachehadoop\&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square\&logo=apachehive\&logoColor=black)
 
-### Tools
+<h4>Tools</h4>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
