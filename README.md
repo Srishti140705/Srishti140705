@@ -120,3 +120,10 @@ I care about writing code that's readable, systems that scale, and learning some
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srishti140705&theme=github-dark&hide_border=true" />
 </p>
+<hr>
+
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srishti140705/Srishti140705/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
