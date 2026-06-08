@@ -119,6 +119,7 @@ I care about writing code that's readable, systems that scale, and learning some
 <p align="center">
   <img src="https://raw.githubusercontent.com/Srishti140705/Srishti140705/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+<hr>
 <p align="center">
   <i>
     "Shipping myself with caffeine, one commit at a time."
