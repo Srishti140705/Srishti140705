@@ -106,9 +106,10 @@ I care about writing code that's readable, systems that scale, and learning some
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-<i>Building projects and contributing consistently — stats will grow with the journey 🚀</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srishti140705&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti140705&theme=github_dark" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srishti140705&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srishti140705&theme=github-dark-blue&hide_border=true"/>
 </p>
