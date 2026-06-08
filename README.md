@@ -106,8 +106,8 @@ I care about writing code that's readable, systems that scale, and learning some
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srishti140705&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti140705&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Srishti140705&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Srishti140705&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
